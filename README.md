@@ -9,7 +9,7 @@ In the youtube-video Samson Zhang tackles a ‘digit-classification’ problem. 
 Each image is 28 x 28 pixels. Each pixel has a value between 0 (black) and 255 (white), and each image is converted into a matrix of numbers. This matrix represents the handwritten number. 
 
 
-# #Important information
+# # Important information
 We used the same dataset as the youtube-tutorial (from Kaggle).
 - Link: https://www.kaggle.com/competitions/digit-recognizer/overview 
 It is licensed under: CC BY-SA 3.0. 
@@ -19,7 +19,7 @@ This repository is a reproduction of the tutorial for learning purposes and we d
 
 We decided to code on our own laptops instead of the notebook-tutorial on Kaggle as shown in his video, as we do not have experience with Kaggle. 
 
-# # Background informationd
+# Background information
 Both of us took the course ‘IN3050 - Introduction to artificial intelligence’ and machine learning, as well as the course ‘IN1160 - Introduction to machine learnin’ at the University of Oslo. Although we have already built different neural networks, we wanted to refresh our memory! We found this youtube-video and decided to follow along. **The code is not ours!**
 
 
