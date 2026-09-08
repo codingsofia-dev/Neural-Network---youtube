@@ -17,6 +17,7 @@ It is licensed under: CC BY-SA 3.0.
 
 This repository is a reproduction of the tutorial for learning purposes and we do not claim any of the code as our own! 
 
+The comments in the code are our own. 
 We decided to code on our own laptops instead of the notebook-tutorial on Kaggle as shown in his video, as we do not have experience with Kaggle. 
 
 ## Background information
