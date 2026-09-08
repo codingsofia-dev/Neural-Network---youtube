@@ -4,7 +4,7 @@
 In this project, we wanted to follow the youtube-video by Samson Zhang: **Building a neural network FROM SCRATCH (no Tensorflow/Pytorch, just numpy & math)**. 
 - Link: https://www.youtube.com/watch?v=w8yWXqWQYmU.
 
-In the youtube-video Samson Zhang tackles a ‘digit-classification’ problem. He uses the MNIST dataset to build a neural network that classifies what digits are written in the image of handwritten digits. 
+In the youtube-video Samson Zhang tackles a ‘digit-classification’ problem. He builds a neural network that classifies what digits are written in a image of handwritten digits. 
 
 Each image is 28 x 28 pixels. Each pixel has a value between 0 (black) and 255 (white), and each image is converted into a matrix of numbers. This matrix represents the handwritten number. 
 
