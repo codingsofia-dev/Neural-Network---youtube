@@ -1,4 +1,4 @@
-# Neural-Network-youtube
+# Neural-Network from a youtube-video
 
 
 In this project, we wanted to follow the youtube-video by Samson Zhang: **Building a neural network FROM SCRATCH (no Tensorflow/Pytorch, just numpy & math)**. 
@@ -9,7 +9,7 @@ In the youtube-video Samson Zhang tackles a ‘digit-classification’ problem. 
 Each image is 28 x 28 pixels. Each pixel has a value between 0 (black) and 255 (white), and each image is converted into a matrix of numbers. This matrix represents the handwritten number. 
 
 
-# # Important information
+## Important information
 We used the same dataset as the youtube-tutorial (from Kaggle).
 - Link: https://www.kaggle.com/competitions/digit-recognizer/overview 
 It is licensed under: CC BY-SA 3.0. 
@@ -19,12 +19,12 @@ This repository is a reproduction of the tutorial for learning purposes and we d
 
 We decided to code on our own laptops instead of the notebook-tutorial on Kaggle as shown in his video, as we do not have experience with Kaggle. 
 
-# Background information
+## Background information
 Both of us took the course ‘IN3050 - Introduction to artificial intelligence’ and machine learning, as well as the course ‘IN1160 - Introduction to machine learnin’ at the University of Oslo. Although we have already built different neural networks, we wanted to refresh our memory! We found this youtube-video and decided to follow along. **The code is not ours!**
 
 
 
-# # What is a neural network?
+## What is a neural network?
 A neural network is supposed to mimic our brains. The brain consists of many neurons that work together in order to function fast and effectively. 
 
 The neural network is an extension of the perceptron: a simple linear model. It consists of weights and inputs and an activation function in order to produce an output. The perceptron uses a ‘step function’ when computing the output. 
@@ -48,5 +48,5 @@ softmax gives values between 0 and 1 (like probabilities)
 
 We have two stages: forward pass and backpropagation. In forward pass, we initialize the weights and the bias and make predictions. But these weights are most likely not the most optimal values, and through backpropagation and gradient descent we update these parameters. We can track how well the model is doing with the accuracy score. 
 
-# #RESULTS
+## RESULTS
 The code has an accuracy of about 84%. In the third, test-prediction we can see that the model didn't predict correctly (predicted 1 instead of 7). 
