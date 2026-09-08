@@ -11,7 +11,8 @@ Each image is 28 x 28 pixels. Each pixel has a value between 0 (black) and 255 (
 
 ## Important information
 We used the same dataset as the youtube-tutorial (from Kaggle).
-- Link: https://www.kaggle.com/competitions/digit-recognizer/overview 
+- Link: https://www.kaggle.com/competitions/digit-recognizer/overview
+
 It is licensed under: CC BY-SA 3.0. 
 - https://creativecommons.org/licenses/by-sa/3.0/
 
